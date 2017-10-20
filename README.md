@@ -2,7 +2,7 @@
 Cryptography Algorithms
 
 ## How to run
-e.g. 
+E.g. 
 ```
 javac RSA.java
 java RSA
